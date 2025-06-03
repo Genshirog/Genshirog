@@ -10,9 +10,9 @@ I'm a passionate programmer who likes to explore, currently I'm focusing on spec
 
 ## Skills
 
--**Languages**: Java, PHP, Python, Html, CSS
--**Frameworks**: Laravel, Spring 
--**Database**: MySQL
+- **Languages**: Java, PHP, Python, Html, CSS
+- **Frameworks**: Laravel, Spring 
+- **Database**: MySQL
 
 
 
