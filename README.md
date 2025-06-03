@@ -17,4 +17,8 @@ I'm a passionate programmer who likes to explore, currently I'm focusing on spec
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Genshirog&show_icons=true&theme=github_dark)
 
+## Experience
 
+- **Role**: Backend developer
+- **Team Name**: Arc-Based Solution
+- **Institute**: University of Mindanao 
