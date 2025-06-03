@@ -1,16 +1,18 @@
-## Hi there 👋
+## Genshi Here, Wassup 👋😎
 
-<!--
-**Genshirog/Genshirog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I'm a passionate programmer who likes to explore, currently I'm focusing on specializng in Fullstack development using Java as my main language. I love working with others and solving problems the only issue I have with myself is my over-reliance with Artificial Intelligence when it comes to complex activities but I am confident with my fundamentals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Currently learning Spring-Boot
+- Developed JavaFX application
+- How to reach me: [https://www.facebook.com/Genshirog] or [arizobaltomgerman@gmail.com]
+
+## Skills
+
+-**Languages**: Java, PHP, Python, Html, CSS
+-**Frameworks**: Laravel, Spring 
+-**Database**: MySQL
+
+
+
