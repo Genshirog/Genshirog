@@ -6,12 +6,12 @@ I'm a passionate programmer who likes to explore, currently I'm focusing on spec
 
 - Currently learning Spring-Boot
 - Developed JavaFX application
-- How to reach me: [https://www.facebook.com/Genshirog] or [arizobaltomgerman@gmail.com]
+- How to reach me: [https://www.facebook.com/Genshirog] or [imbaxgx1fromyt@gmail.com]
 
 ## Skills
 
-- **Languages**: Java, PHP, Python, Html, CSS
-- **Frameworks**: Laravel, Spring 
+- **Languages**: Java, PHP, Python, C#, HTML+CSS, JavaScript
+- **Frameworks**: Laravel, Spring , ASP.Net
 - **Database**: MySQL
 
 ## Github Stats
