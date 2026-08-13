@@ -16,7 +16,7 @@ I'm an Information Technology student who specialize on building backend applica
 - **Database**: MySQL,Postgres
 
 ## Github Stats
-![GitHub Stats](https://streak-stats.demolab.com?user=Genshirog&theme=github-dark)
+![GitHub Stats](https://ghstats.dev/api/card?username=Genshirog)
 
 ## Experience
 
